@@ -1,0 +1,72 @@
+#text {
+    font-size: 200%;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+    border: 2px black;
+    text-align: center;
+    
+}
+
+.shortdescription {
+    color: white;
+    border: 1px black;
+    font-size: 130%;
+    text-align: center;
+}
+
+.extendeddescription {
+    color: white;
+    border: 1px black;
+    font-size: 130%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.navHeader	{
+	padding: 5px;
+
+}
+
+.navHeader ul{
+	text-align: center;
+	font-size 12px;
+}
+
+.navHeader ul li{
+	list-style-type: none;
+	background-color: #3399FF;
+	display: inline;
+	padding: 15px;
+	margin: 5px;
+
+}
+
+.navHeader ul li a{
+	color: white;
+	text-decoration: none;	
+}
+
+.navHeader ul li:hover{
+	background-color: #3366FF;
+}
+
+.col_detail {
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 30px;
+    padding: 2px;
+    color:white;
+    font-size: 150%;
+    
+}
+
+h1 {
+    color: white;
+}
